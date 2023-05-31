@@ -35,6 +35,10 @@ input {
   font-size: 20px;
 }
 
+input:hover {
+  color: #000;
+}
+
 button {
   padding: 20px 40px;
   margin: 20px;
