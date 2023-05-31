@@ -23,6 +23,7 @@ body {
 
 label {
   font-size: 36px;
+  text-transform: uppercase;
 }
 
 input {
@@ -56,4 +57,8 @@ button {
 button:hover {
   background-color: #FF1493;
   color: #000;
+}
+
+p {
+  color: tomato;
 }
